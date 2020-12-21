@@ -1,6 +1,5 @@
 #  Classe para Cálculo do IMC
-
-Primeira tarefa prática do curso de Orientação a Objetos com  Java ofericido pelo Instituto Tecnológico da Aeronáutica (ITA).
+Tarefa prática do curso de Orientação a Objetos com  Java ofericido pelo Instituto Tecnológico da Aeronáutica (ITA).
 
 ## Enunciado ##
 
